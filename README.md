@@ -20,7 +20,7 @@ Aby poruszać naszym statkiem kosmicznym należy naciskać klawisze strzałek w 
 Jednocześnie na ekranie mogą być widoczne tylko 3 pociski. 
 Flota obcych będzie przesuwać się w bok i w dół, stopniowo zbliżając się do naszego statku kosmicznego. W momencie, kiedy uda się pokonać całą flotę obcych, na ich miejsce pojawia się nowa, szybsza flota, a nasz poziom podniesie się o 1.
 
-![start_screen](https://github.com/Paulina-Celebias/python-courses/blob/main/Projekty/AlienGame/Screenshots/Scoreboard.png?raw=true)
+![start_screen](https://github.com/Paulina-Celebias/Alien-Game/blob/main/Screenshots/Scoreboard.png?raw=true)
 
 ## Koniec gry
 Za każdym razem gdy obcy zetknię się z naszym statkiem kosmicznym lub dotrze do dolnej krawędzi ekranu, tracimy jedno życie.
