@@ -24,5 +24,6 @@ Flota obcych będzie przesuwać się w bok i w dół, stopniowo zbliżając się
 
 ## Koniec gry
 Za każdym razem gdy obcy zetknię się z naszym statkiem kosmicznym lub dotrze do dolnej krawędzi ekranu, tracimy jedno życie.
-Gra kończy się po utracie wszystkich trzech żyć.
+Gra kończy się po utracie wszystkich trzech żyć. 
+Jeżeli gracz pobije najwyższy wynik, zostanie on zaktualizowany i na górze ekranu pojawi się nowy rekord.
 
