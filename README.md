@@ -1,29 +1,29 @@
-# Gra Inwazja Obcych
+# Game Alien Invasion
 
-## Cel gry
-Kierujemy statkiem kosmicznym i próbujemy odeprzeć inwazję obcych z kosmosu.
+## The purpose of the game
+We are a space ship and we are trying to push back alien invasion from space.
 
-## Ekran startowy i statystyki gry
-Na ekranie startowym na dole ekranu pojawia się nasz statek kosmiczny, natomiast na górze widoczna jest żółta flota obcych. 
-Na górze ekarnu widoczne są statystyki gry:
-* W lewym rogu widoczne są trzy statki identyczne jak te, którymi poruszamy w grze. Są to nasze życia. Na każdę grę przypadają 3 życia.
-* Na środku pojawia się najwyższy osiągnięty wynik we wszystkich rozgrywkach.
-* W prawym rogu znajduje się licznik punktów, które zdobywamy za trafienie obcego
-* Pod licznikiem naszych punktów znajduje się cyfra oznaczająca aktualny poziom gry
-Aby rozpocząć grę należy kliknąć lewym przyciskiem myszy zielony przycisk "Game", widoczny na środku ekranu.
+## Title screen and game statistics
+On the bottom of the screen there is our space ship and above there is a fleet of yellow aliens. On the top of the screen there are displayed game statistics:
+* In the left corner we can see three space ships, identical as the one we're about to move. These indicates our lives in the game. For each game we have three lives.
+* In the center we can see the game record
+* In the right corner is located our score counter. We score each time we menage to hit the alien.
+* Under the score counter there is a counter of our currently obtained game level.
+To start the game we need to click on the "Game" button in the center of the screen
 
 ![start_screen](https://github.com/Paulina-Celebias/Alien-Game/blob/main/Screenshots/Start_screen.png?raw=true)
 
-## Rozgrywka
-Gra rozpoczyna się w momencie naciśnięcia przycisku "Game".
-Aby poruszać naszym statkiem kosmicznym należy naciskać klawisze strzałek w prawo i w lewo, natomiast strzelamy za pomocą spacji.
-Jednocześnie na ekranie mogą być widoczne tylko 3 pociski. 
-Flota obcych będzie przesuwać się w bok i w dół, stopniowo zbliżając się do naszego statku kosmicznego. W momencie, kiedy uda się pokonać całą flotę obcych, na ich miejsce pojawia się nowa, szybsza flota, a nasz poziom podniesie się o 1.
+## Gameplay
+the game starts as soon as we click the "Game" button.
+We move our space ship with left and right arrows on the keyboard and we can fire a bullet with key SPACE on the keyboard.
+There can be only three bullets visible on the screen at the same time.
+The fleet of aliens is moving sideways and down, approaching our space ship. When we manage to defeat the whole fleet of aliens, a new, faster fleet will appear. At that point our game level will increase by 1. 
 
 ![start_screen](https://github.com/Paulina-Celebias/Alien-Game/blob/main/Screenshots/Scoreboard.png?raw=true)
 
-## Koniec gry
-Za każdym razem gdy obcy zetknię się z naszym statkiem kosmicznym lub dotrze do dolnej krawędzi ekranu, tracimy jedno życie.
-Gra kończy się po utracie wszystkich trzech żyć. 
-Jeżeli gracz pobije najwyższy wynik, zostanie on zaktualizowany i na górze ekranu pojawi się nowy rekord.
+## End of the Game
+We loose one life every time an alien crushes against our space ship or an alien reaches the bottom of the screen.
+The game ends when we loose all three lives.
+If the player sets a new game record, the highest game score will be updated.
+
 
