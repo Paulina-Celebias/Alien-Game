@@ -12,7 +12,7 @@ Na górze ekarnu widoczne są statystyki gry:
 * Pod licznikiem naszych punktów znajduje się cyfra oznaczająca aktualny poziom gry
 Aby rozpocząć grę należy kliknąć lewym przyciskiem myszy zielony przycisk "Game", widoczny na środku ekranu.
 
-![start_screen](https://github.com/Paulina-Celebias/python-courses/blob/main/Projekty/AlienGame/Screenshots/Start_screen.png?raw=true)
+![start_screen](https://github.com/Paulina-Celebias/Alien-Game/blob/main/Screenshots/Start_screen.png?raw=true)
 
 ## Rozgrywka
 Gra rozpoczyna się w momencie naciśnięcia przycisku "Game".
