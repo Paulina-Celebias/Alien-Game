@@ -14,7 +14,7 @@ To start the game you need to click on the "Game" button in the center of the sc
 ![start_screen](https://github.com/Paulina-Celebias/Alien-Game/blob/main/Screenshots/Start_screen.png?raw=true)
 
 ## The gameplay
-The game starts as soon as we click the "Game" button.
+The game starts as soon as you click the "Game" button.
 You move your space ship with left and right arrows on the keyboard and you can fire a bullet with key SPACE.
 There can be only three bullets visible on the screen at the same time.
 The fleet of aliens is moving sideways and down, approaching your space ship. When you manage to defeat the whole fleet of aliens, a new, faster fleet will appear. At that point yourr game level will increase by 1. 
