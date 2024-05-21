@@ -1,6 +1,6 @@
 # Game Alien Invasion
 
-## The purpose of the game
+## Purpose of the game
 You controle a space ship and you are trying to push back alien invasion from space.
 
 ## Title screen and game statistics
